@@ -1,0 +1,14 @@
+C:\Users\Roman\Desktop\DataArtProject\AutoFramework\bin\Debug\AutoFramework.dll
+C:\Users\Roman\Desktop\DataArtProject\AutoFramework\bin\Debug\AutoFramework.pdb
+C:\Users\Roman\Desktop\DataArtProject\AutoFramework\bin\Debug\Castle.Core.dll
+C:\Users\Roman\Desktop\DataArtProject\AutoFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Roman\Desktop\DataArtProject\AutoFramework\bin\Debug\nunit.framework.dll
+C:\Users\Roman\Desktop\DataArtProject\AutoFramework\bin\Debug\WebDriver.dll
+C:\Users\Roman\Desktop\DataArtProject\AutoFramework\bin\Debug\WebDriver.Support.dll
+C:\Users\Roman\Desktop\DataArtProject\AutoFramework\bin\Debug\Castle.Core.xml
+C:\Users\Roman\Desktop\DataArtProject\AutoFramework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Roman\Desktop\DataArtProject\AutoFramework\bin\Debug\nunit.framework.xml
+C:\Users\Roman\Desktop\DataArtProject\AutoFramework\bin\Debug\WebDriver.xml
+C:\Users\Roman\Desktop\DataArtProject\AutoFramework\bin\Debug\WebDriver.Support.xml
+C:\Users\Roman\Desktop\DataArtProject\AutoFramework\obj\Debug\AutoFramework.dll
+C:\Users\Roman\Desktop\DataArtProject\AutoFramework\obj\Debug\AutoFramework.pdb
